@@ -1,6 +1,12 @@
 # liquidfier_happy_holi
 
-A new Flutter project.
+A simple code to show how a Liquidfier works.
+
+# ScreenShots
+
+![Screenshot (30)](https://user-images.githubusercontent.com/81425855/117605545-968c5000-b175-11eb-84fb-0940ec6787ee.png)
+
+
 
 ## Getting Started
 
